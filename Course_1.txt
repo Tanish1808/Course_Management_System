@@ -1,0 +1,9 @@
+==============================================
+CourseId:1
+CourseName:Introduction to Python Programming
+InstructorName:RajeshKumar
+CourseCategory:Programming
+CourseDescription:Learn the basics of Python programming including variables, loops, functions, and object-oriented programming concepts.
+CourseDuration:40:00:00
+==============================================
+
